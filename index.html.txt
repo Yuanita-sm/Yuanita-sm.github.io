@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<title>Biodata</title>
+</head>
+<body style="background-image:url('background.jpeg');">
+	<p style="font-size:50px;">		Yuanita Silvia Marsakirani  </p>
+	<p> arti nama : Seorang perempuan yang dirahmati oleh tuhan yang berwibawa dan merupakan seorang putri yang cantik </p>
+	<h1 style="background-color: coral ;">Tentang Saya</h1>
+	<ul>
+		<li>Tempat Tanggal Lahir : Depok , 24 Desember 2003</li>
+		<li>Agama                : Islam</li>
+		<li>zodiak               : Capricorn </li>
+		<li>Jenis kelamin        : Perempuan </li>
+		<li>Golongan Darah       : O </li>
+		<li>Alamat               : Pekapuran Raya , jln Belong no.160 , Depok</li>
+		<li>Kewarganegaraan      : WNI </li>
+		<li>Status               : Belum menikah</li>
+		<li>Pekerjaan            : Pelajar </li>
+	</ul>
+	<h1 style="background-color:cadetblue;">Riwayat Pendidikan</h1>
+	<ul>
+		<li> TK RAUDHATUL HIDAYAH , Depok </li>
+		<li> SDN SUKATANI 5 , Depok </li>
+		<li> SMPN 11 Depok , Depok </li>
+		<li> SMK-SMAK Bogor , Bogor ( masih menjadi pelajar ) </li>
+	</ul>
+	<img src="pas_foto.jpeg" width="300px" height="400px">
+</body>
+</html>
