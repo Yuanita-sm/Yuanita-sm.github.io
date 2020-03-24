@@ -1,0 +1,10 @@
+index.css
+body{
+		background-image: url(background.jpeg);
+		background-repeat: no-repeat;
+		background-position: top:
+}
+h1{color: antiquewhite ; text-align: center;font-family:"lucida consolen", lucida , monospace ; font-style: oblique; }
+ul{border: 2px solid rgb(77,152,112) ; margin: 50px ; font-family: consolas }
+p{color: saddlebrown ; font-family: Bahnschrift ; font-size: 20px}
+img {border-radius: 50%}
